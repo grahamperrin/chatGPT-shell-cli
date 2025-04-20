@@ -78,7 +78,7 @@ This script relies on curl for the requests to the api and jq to parse the json 
   ```sh
   brew install jq
   ```
-* An OpenAI API key. Create an account and get a free API Key at [OpenAI](https://beta.openai.com/account/api-keys)
+* An OpenAI API key. Create an account and get a free API Key at [OpenAI](https://platform.openai.com/settings/organization/api-keys)
 
 * Optionally, you can install [glow](https://github.com/charmbracelet/glow) to render responses in markdown 
 
